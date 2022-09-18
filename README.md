@@ -1,4 +1,4 @@
-# ubc_launchpad
+# ubc launchpad
 The responsive design can be implemented in two ways
 1) Bootstrap Grid:
 One way we can use is the bootstrap grid option depending on the components of the website. 
