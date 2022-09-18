@@ -8,6 +8,6 @@ This we way can decide the amount of information to be shown in mobile size.
 
 2) CSS media view:
 The other way we can implement this is by using the CSS "@media query".
-We can set up a max-width/min-width as the maximum and minimum resolutions where we want to set a breakpoint where the view changes to fit the resolution.
-For example, In my css_implementation file if 1334px is the maximum resolution of the device’s screen, then the background color would be black.
+We can set up max-width/min-width as the maximum and minimum resolutions where we want to set a breakpoint where the view changes to fit the resolution.
+For example, In my css_implementation file, if 1334px is the maximum resolution of the device’s screen, then the background color would be black.
 
